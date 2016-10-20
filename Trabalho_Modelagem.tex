@@ -8,256 +8,114 @@
 \begin{document}
 
 
-\section{Informações Estudante}
+\begin{flushleft}
+\section{Contexto}
+
+\subsection{Motivação}
+Quando se pensa sobre os principais fatores que colaboram para o sucesso de
+empresas a  satisfação do cliente no mercado de TI exerce um papel importante,
+e \textit{user experience} é com certeza um dos principais fatores, os caminhos
+para prover a \textit{user experience} são muitos, por exemplo prover qualidade
+no serviço de usuário, pode ser um desses caminhos. Consequentemente vemos o
+suporte ao usuário como sendo um serviço provido por uma empresa  ao seus
+clientes com o objetivo de melhorar a experiência com o produto provido. Em
+outras palavras o serviço de suporte ao usuário ajuda ao cliente resolver
+qualquer problema que possa encontrar enquanto usa o produto ou serviço
+
+\end{flushleft}
+
+\subsubsection{Serviço de suporte ao usuário}
+Primeiramente devemos definir o que é o serviço de suporte na área de TI,
+podemosencontrar vários termos como:
+ 		- Suporte tecnico
+		- Service Desk
+		- Help desk
+		- Suporte ao Cliente
+		- Suporte
+		- Suporte ao Usuário
+		- Etc
+Basicamente esses termos definem a mesma coisa,mas cada um deles é focado
+em diferentes aspectos do serviço, então para isso vamos focar no suporte
+ao usuário, pois esse é mais comum e com isso evitamos ambiguidades
+- Logo entende-se como suporte ao usuário um serviço provido por uma organização
+para seus clientes para promover uma experiência com seu produto ou serviço,
+resolvendo qualquer problema que o cliente possa encontrar enquanto usa o
+serviço ou produto. Além disso não se  deve colocar qualquer restrição ao tipo
+de problema que possa ser encontrado ou qualquer duvida ou denuncia que o
+cliente possa reportar.
+Como essa definição é bastante intuitiva nos podemos descrever o que
+é serviço com os termos de service science
+
+
+\subsection{Padrão industrial  e melhores praticas para suporte ao Usuário}
+[TO DO]
+\section{Contexto}
+\subsection{Objetivos}
 \begin{itemize}
-\item Aluno: João Henrique Pereira de Almeida
-\item Matrícula: 15/0132042
-\item Perfil Github: \href{http://github.com/joao-henrique/}{http://github.com/joao-henrique/}
-\item email: joaohenrique.p.almeida@gmail.com
-\item Disciplina: Fundamentos de Sistemas Operacionais
-
+  \item Formalizar o processo atual
+  \item Encontrar gargalos
+  \item Otimizar processos
 \end{itemize}
 
-
-\section{Informações Importantes}
-\subsection{Repositório}
-O codigo dessa atividade se encontra no repositório abaixo, sob licença MIT
-\url{https://github.com/joao-henrique/FSO-2016.1/tree/master/trab01}
-\subsection{Sistema Operacional}
-
-
-Foi usado para o desenvolvimento das atividades propostas o ElementaryOS - Loki, sistema operacional baseado no Ubuntu 16.04
-
-\subsection{Ambiente de Desenvolvimento }
-- O código encontrado nos três exercicios funcionaram em
-conformidade em ambiente GNU/Linux OS, juntamente com o GCC-5
-
-\section{Instruções}
-
-
-\subsection{Instruções para compilação}
-Aqui será listado os comandos que devem ser executados no terminal, dentro da pasta raiz.
-
-\subsubsection{Questão 01}
-No diretório raiz do projeto utilize os seguintes comandos
-\begin{verbatim}
-$ cd q01/
-$ make
-\end{verbatim}
-
-\subsubsection{Questão 02}
-No diretório raiz do projeto utilize os seguintes comandos
-\begin{verbatim}
-$ cd q02/
-$ make
-\end{verbatim}
-
-Após uso desse comando deve-se passar as opções juntamente com os inteiros
-para o uso
-
-\begin{verbatim}
-Opções
--crescent, 			 "Listar em ordem crescente"
--decreasing, 		 "Listar em ordem decrescente"
--help 		       "Mostrar Exemplo"
-
-
-Para mostrar exemplo na linha de comando
-$ ./run -help
-
-Para listar em ordem crescente
-$ ./run -crescent  9 8 7 4 5 6 1 2 3
-
-Para listar em ordem decrescente
-$ ./run -decreasing 9 8 7 4 5 6 1 2 3
-
-Como ação default algoritmo executa a ordem crescente quando não é passado nenhuma opção
-$ ./run 9 8 7 4 5 6 1 2 3
-
-\end{verbatim}
-
-
-
-
-
-
-
-
-
-
-
-\subsubsection{Questão 03}
-No diretório raiz do projeto utilize os seguintes comandos
-\begin{verbatim}
-$ cd q03/
-$ make
-\end{verbatim}
-
-\subsection{Casos de Teste}
-
-\subsubsection{Questão 01}
+\subsection{Fatores criticos de sucesso:}
 \begin{itemize}
-  \item Na entrada dos vertices do triângulo  não é verificado se a cadeia de
-  strings informada são letras ou numeros
-
-  \begin{itemize}
-    \item Exemplo 01: Entrada: FSODisciplina, Saída: "The triangle does not exists";
-    \item Exemplo 02: Entrada:1,8,5,6,7,9 , \\
-    Saída: " The area of the triangle is: 8.00; The side of the vertice n1 is: 4.47; \\
-    The side of the vertice n2 is: 3.61;\\
-    The side of the vertice n3 is: 6.08;\\
-    The perimeter of the triangle is: 14.16;\\
-  \end{itemize}
-
-  \item É verificado se os pontos dos vertices informados estão ma mesma reta do plano
-  \begin{itemize}
-    \item Exemplo: Entrada: 1,2,3,4,5,6, Saída: "The triangle does not exists";
-  \end{itemize}
+  \item Diminuição do tempo de processamento de uma requisição individual
+  \item Diminuir a necessidade de tarefas humanas no processo de suporte
 \end{itemize}
 
-\subsubsection{Questão 02}
+\subsection{Time do projeto}
 \begin{itemize}
-  \item
-  \begin{itemize}
-    \item Opção decrescente \\
-    Entrada:
-    \begin{verbatim}
-      $ ./run -decreasing  9 8 7 4 5 6 1 2 3
-    \end{verbatim}
-    Saída esperada:
-    \begin{verbatim}
-      9 8 7 6 5 4 3 2 1
-    \end{verbatim}
-  \end{itemize}
-
-  \begin{itemize}
-    \item Opção crescente \\
-    Entrada:
-    \begin{verbatim}
-      $ ./run -crescent  9 8 7 4 5 6 1 2 3
-    \end{verbatim}
-    Saída esperada:
-    \begin{verbatim}
-      0 1 2 3 4 5 6 7 8 9
-    \end{verbatim}
-  \end{itemize}
-
-  \begin{itemize}
-    \item Opção default \\
-    Entrada:
-    \begin{verbatim}
-      $ ./run  9 8 7 4 5 6 1 2 3
-    \end{verbatim}
-    Saída esperada:
-    \begin{verbatim}
-      1 2 3 4 5 6 7 8 9
-    \end{verbatim}
-  \end{itemize}
-
-  \item Caso no array de informações
-  \begin{itemize}
-    \item Opção com entrada com letras \\
-    O sistema entende as letras como zero(0) e organiza o restante
-    Entrada:
-    \begin{verbatim}
-      $ ./run  J 8 7 T 5 6 1 2 3
-    \end{verbatim}
-    Saída esperada:
-    \begin{verbatim}
-      0 0 1 2 3 5 6 7 8
-    \end{verbatim}
-  \end{itemize}
-
-
-  \item Opção de ajuda
-  \begin{itemize}
-    \item Entrada
-    \begin{verbatim}
-      $ ./run  -h
-    \end{verbatim}
-    Saída esperada:
-    \begin{verbatim}
-    Opções
-    -crescent, 			 'Listar em ordem crescente'
-    -decreasing, 		 'Listar em ordem decrescente'
-    -help 		       'Mostrar Exemplo'Exemplos:
-    Example:
-      ./run  9 8 7 4 5 6 1 2 3
-	ou:   ./run -crescent  9 8 7 4 5 6 1 2 3
-	ou:	  ./run -decreasing  9 8 7 4 5 6 1 2 3
-	ou:	  ./run -help
-\end{verbatim}
+  \item Operador de suporte
+  \item Desenvolvedor Sênior
+  \item Representante de Vendas
+  \item Chefe de tecnologia
 \end{itemize}
 
 
-\item Opção de ajuda sempre terá preferência na execução dos comandos
+\subsubsection{Planejamento do Projeto}
 \begin{itemize}
-  \item Entrada
-  \begin{verbatim}
-    $ ./run -h  9 8 7 4 5 6 1 2 3
-  \end{verbatim}
-  Saída esperada:
-  \begin{verbatim}
-  Opções
-  -crescent, 			 'Listar em ordem crescente'
-  -decreasing, 		 'Listar em ordem decrescente'
-  -help 		       'Mostrar Exemplos:
-  Example:
-    ./run  9 8 7 4 5 6 1 2 3
-ou:   ./run -crescent  9 8 7 4 5 6 1 2 3
-ou:	  ./run -decreasing  9 8 7 4 5 6 1 2 3
-ou:	  ./run -help
-\end{verbatim}
-\end{itemize}
+\item Fase 1 - Analise \\
+	- Formalização do processo corrente
+	- Analise de informação do sistema de logs
+\item Fase 2 - Otimização\\
+	- Otimização de identificação dos processos\\
+	- Documentação de novos processos
+\item Fase 3 - Implantação \\
+	- Implantação do processo\\
+\item Fase 4 - Validação\\
+	- Implantação do processo de monitoramento
 \end{itemize}
 
-\subsubsection{Questão 03}
+\subsubsection{Fase 01}
+~[TO DO - Diagramas]
 
-Entrada:
-\begin{verbatim}
- $ Universidade de Brasilia
-\end{verbatim}
-Saída esperada:
-\begin{verbatim}
- $ Value of dPtr: 7.300000
- $ Value of number2: 7.300000
- $ Pointer to number1: 0x7fff90d0d218
- $ Pointer to dPtr: 0x7fff90d0d218
- $ Put a string: Universidade de Brasilia
- $ Compare to s1 and s2: 0
- $ Concat of s1 and s2: UniversidadeUniversidade
- $ Len of |UniversidadeUniversidade| is |24|
-\end{verbatim}
+\subsubsection{Conclusão e análise}
+- Processos indefinidos informalmente\\
+- Ausência de monitoramento\\
+- Ausência de uma base de conhecimento\\
+- Ausência de autênticação de usuário\\
+- Processos de longo tempo de execução\\
+- Reporte insuficiênte para o cliente\\
 
-\subsection{Limitações conhecidas}
-\subsubsection{Questão 01}
-\begin{itemize}
-  \item Não há um tratamento dos valores de entrada no sistema
-\end{itemize}
+\subsection{Proposta de redesign}
+- Gestão de Conhecimento e Auto-Ajuda
 
-\subsubsection{Questão 02}
-\begin{itemize}
-  \item Não há um tratamento para entradas inválidas no sistema
-\end{itemize}
+- Para base de conhecimento, será preciso incluir
+	- Manual para suporte dos usuários
+	- Documentação completa dos produtos de Software
+	- Documentação de problemas comuns
+	- Base de dados de erros e suas "workarounds"
+	- Base de dados de "improvement sugestions"
 
-\subsubsection{Questão 03}
-\begin{itemize}
-\item
-O valor impresso decorrente do enunciado que contempla o item anterior é igual ao
-valor do endereço gravado em dPrt?
-\begin{verbatim}
-    Não, é apenas um ponteiro indicando um endereço
-    \end{verbatim}
+A base de conhecimento será lançada como uma extensão do
+suporte web page
+- Monitoramento de performace
 
-\item
-  A execução do item anterior pode provocar algum erro em tempo de execução?
-\begin{verbatim}
-    Sim, pode ocorrer um problema com a concatenação e o tamanho não suficiente \\
-    para armazenar ambas strings
-\end{verbatim}
+Como primeira ação foi necessário achar os indicadores chave de performace,
+onde foi possivel mapear o relacionamento desses indicadores chave com os fatores
+criticos de sucesso
 
 
 
-\end{itemize}
 
 \end{document}

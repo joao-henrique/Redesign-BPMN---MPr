@@ -1,0 +1,160 @@
+$ latex --output-format= pdf TrabalhoMPr
+
+
+Descrição do Projeto
+
+Motivação
+- Quando vc pensa sobre os principais fatores que colaboram para o sucesso de
+empresas e
+a satisfação do cliente no mercado de TI, user experience é concerteza um dos
+principais fatores,
+Os caminhos para prover a user experience são muitos, Por exemplo prover
+qualidade no serviço de
+usuário, pode ser um desses caminhos, Consequentemente vemos o suporte ao
+suário como sendo um serviço
+provido por uma empresa  ao seus clientes com o objetivo de melhorar a
+experiência com o produto provido.
+-Em outras palavras o serviço de suporte ao usuário ajuda ao cliente
+resolver qualquer problema
+que possa encontrar enquanto usa o produto ou serviço
+
+
+Serviço de suporte ao usuário
+	- Primeiramente devemos definir o que é o serviço de suporte na área de TI, podemos
+encontrar vários termos como:
+ 		- Suporte tecnico
+		- Service Desk
+		- Help desk
+		- Suporte ao Cliente
+		- Suporte
+		- Suporte ao Usuário
+		- Etc
+Basicamente esses termos definem a mesma coisa,mas cada um deles é focado em diferentes
+aspectos do serviço, então para isso vamos focar no suporte ao usuário, pois esse é mais comum
+e com isso evitamos ambiguidades
+	- Logo entende-se como suporte ao usuário um serviço provido por uma organização para seus clientes
+	para promover uma experiência com seu produto ou serviço, resolvendo qualquer problema que o cliente
+	possa encontrar enquanto usa o serviço ou produto. Além disso não se deve colocar qualquer restrição ao
+	tipo de problema que possa ser encontrado ou qualquer duvida ou denuncia que o cliente possa reportar.
+Como essa definição é bastante intuitiva nos podemos descrever o que é serviço com os termos de service science
+
+
+
+
+- Padrão industrial  e melhores praticas para suporte ao Usuário
+
+
+
+/**
+Inserir aqui a descrição do contexto
+**/
+
+
+Metas do projeto
+- aumentar a satisfação do cliente
+- diminuir o custo da operação de suporte ao usuário
+
+
+Objetivos
+- Formalizar o processo atual
+- Encontrar gargalos
+- Otimizar processos
+
+
+Fatores criticos de sucesso:
+- Diminuição do tempo de processamento de uma requisição individual
+- Diminuir a necessidade de tarefas humanas no processo de suporte
+
+
+Time do projeto
+- Operador de Suporte
+- Desenvolvedor Senior
+- Representante de Vendas
+- Chefe de tecnologia
+
+
+Planejamento do Projeto
+
+Fase 1 - Analise
+	- Formalização do processo corrente
+	- Analise de informação do sistema de logs
+Fase 2 - Otimização
+	- Otimização de identificação dos processos
+	- Documentação de novos processos
+Fase 3 - Implantação
+	- Implantação do processo
+Fase 4 - Validação
+	- Implantação do processo de monitoramento
+
+
+
+
+	Fase 1
+	Durante a faze inicial foram identificados 3 tipos de requisições
+		- Requisição para ajuda tecnica
+		- Reporte de errors
+		- Enviar sugestões
+
+
+
+
+
+/**
+Diagramas e descrições de atividades
+**/
+
+
+- Conclusão da análise
+	- Processos indefinidos informalmente
+	- Ausência de monitoramento
+	- Ausência de uma base de conhecimento
+	- Ausência de autênticação de usuário
+	- Processos de longo tempo de execução
+	- Reporte insuficiênte para o cliente
+
+
+Proposta de redesign do BPMN - TO-BE
+
+- Gestão de Conhecimento e Auto-Ajuda
+
+- Para base de conhecimento, será preciso incluir
+	- Manual para suporte dos usuários
+	- Documentação completa dos produtos de Software
+	- Documentação de problemas comuns
+	- Base de dados de erros e suas "workarounds"
+	- Base de dados de "improvement sugestions"
+
+A base de conhecimento será lançada como uma extensão do
+suporte web page
+
+- Monitoramento de performace
+
+Como primeira ação foi necessário achar os indicadores chave de performace,
+onde foi possivel mapear o relacionamento desses indicadores chave com os fatores
+criticos de sucesso
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
