@@ -1,4 +1,5 @@
 \documentclass[11pt,a4paper]{article}
+\usepackage{graphicx}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{blindtext}
@@ -9,7 +10,7 @@
 
 
 \begin{flushleft}
-\section{Contexto}
+\section{Informações Adicionais}
 
 \subsection{Motivação}
 Quando se pensa sobre os principais fatores que colaboram para o sucesso de
@@ -46,8 +47,140 @@ resolvendo qualquer problema que o cliente possa encontrar enquanto usa o
 serviço ou produto. Além disso não se  deve colocar qualquer restrição ao tipo
 de problema que possa ser encontrado ou qualquer dúvida ou denuncia que o
 cliente possa reportar.
-Como essa definição é bastante intuitiva nos podemos descrever o que
-é serviço com os termos de service science
+
+
+\section{Execução do Projeto}
+\begin{itemize}[noitemsep]
+\item Fase 1 - Análise
+	\begin{itemize}[noitemsep]
+		\item Compreensão do contexto
+		\item Formalizar os processos correntes (AS-IS)
+		\item Analizar oas informações do sistema de log		
+		\item Definir dos objetivos
+		\item Definir os Fatores de Sucesso
+		\item Identificar os envolvidos
+		\item Análise das informações
+	\end{itemize}		
+\item Fase 2 - Otimização
+	\begin{itemize}[noitemsep]
+		\item Otimização dos processos identificados (TO-BE)	
+		\item Documentação de novos processos	
+	\end{itemize}
+\item Fase 3 - Implantação
+	\begin{itemize}[noitemsep]
+		\item  Implantação dos novos processos
+	\end{itemize}
+\item Fase 4 - Validação
+	\begin{itemize}[noitemsep]
+		\item Implantação do processo de monitoramento	
+	\end{itemize}
+
+\end{itemize}
+
+\section{Modelo AS-IS}
+\subsection{Contexto}
+	\paragraph{}
+	O cenário usado como referência nesse trabalho é o de uma empresa que 
+	fornece hardware e software para emissão de cupons fiscais emitidos no
+	caixa. O produto de software é responsável por identificar o item quando passados no 
+	identificador de código de barras. A solução de hardware é composta pelo identificador
+	de código de barras, emissor de cupom fiscal e monitor.Como a empresa em questão é 
+	provedora de dois items, o serviço de atendimento ao 
+	usuário se faz necessário pois tais soluções podem apresentar algum defeito. O público alvo
+	dessa empresa são supermercados ou quaisquer empreendimento que busca ter catalogados seus items
+	e disponibiliza-los para venda.O contexto abordará somente o atendimento do usuário (supermercados) em 
+	relação ao uso das duas soluções.
+		
+		O processo de suporte aos usuários das soluções se encontra disforme e não vem obtendo
+	os resultatos esperados, causando insatisfação dos clientes, além de gastos por parte da empresa.
+	Devido a esses problemas os usuários(supermercados) deixam de lucrar, agravando ainda mais a satisfação
+	dos clientes. Buscando resolver esse problema e ainda agregar valor para o usuário utilizando provendo
+	um serviço eficiente e eficaz. 
+	Nos tópicos a seguir será mostrado os objetivos,fatores de sucesso, os processos
+	identificados assim como uma analise do que foi encontrado 
+	
+	\paragraph{}A empresa solicitou que seu nome não fosse citado nos resultados aqui mostrados, esse pedido
+	se fez necessário pois a mesma está sobre o processo de direito de imagem e venda.	
+		
+\subsection{Objetivos}
+\begin{itemize}[noitemsep]
+  \item Formalizar o processo atual
+  \item Encontrar gargalos
+  \item Otimizar processos
+\end{itemize}
+
+\subsection{•}
+\begin{itemize}[noitemsep]
+  \item Diminuição do tempo de processamento de uma requisição individual
+  \item Diminuir a necessidade de tarefas humanas no processo de suporte
+\end{itemize}
+
+\subsection{Time do projeto}
+\begin{itemize}[noitemsep]
+  \item Operador de suporte
+  \item Desenvolvedor Sênior
+  \item Representante de Vendas
+  \item Chefe de tecnologia
+\end{itemize}
+
+
+
+
+\subsection{Modelos dos processos}
+\paragraph{}
+Nessa seção vamos abordar a modelagem dos processos identificados no contexto,
+os processos aqui mostrados usam a notação do BPMN para dar clareza e objetividade.
+Proporcionando um padrão internacional de leitura dos mesmos.
+
+
+\subsubsection{Gerência de requisição}
+\begin{figure}[h]
+\caption{Gerencia de requisição}
+\centering % para centralizarmos a figura
+\includegraphics[width=15cm]{as-is/01_gerencia_de_requisicao.png} % leia abaixo
+\label{figura:gerencia_requisicao_as_is}
+\end{figure}
+
+
+\subsubsection{Suporte técnico}
+
+\subsection{Conclusão e análise}
+\begin{itemize}[noitemsep]
+  \item Processos indefinidos
+  \item Ausencia de monitoramentos
+  \item Ausencia de uma base de conhecimento
+  \item Ausencia de autenticação de usuário
+  \item Processos de longo tempo de execução
+  \item Reporte insuficiênte para o cliente
+\end{itemize}
+
+\section{Padrões e Normas}
+\subsection{ITIL}
+
+\section{Redesign do Processo (TO - BE)}
+
+\begin{itemize}[noitemsep]
+	\item Gestão de Conhecimento e Auto-Ajuda
+	\item	Para base de conhecimento, será preciso incluir
+	\begin{itemize}[noitemsep]
+		\item Manual para suporte dos usuários
+		\item Documentação completa dos produtos de software
+		\item Documentação de Problemas comuns
+		\item Base de dados de erros e suas workarounds
+		\item Base de dados de improvement sugestions
+	\end{itemize}
+	A base de conhecimento será lançada como uma extensão do
+	suporte web page
+	\item Monitoramento de performace
+\end{itemize}
+
+
+Como primeira ação foi necessário achar os indicadores chave de performace,
+onde foi possivel mapear o relacionamento desses indicadores chave com os fatores
+criticos de sucesso
+
+
+
 
 
 \subsection{Padrão industrial  e melhores praticas para suporte ao Usuário}
@@ -57,81 +190,49 @@ facilitando resultados sem ter que assumir custos e riscos extras.
 
 E a ITIL mapeia todo o ciclo de vida dos serviços através de 5 pilares:
 \begin{itemize}[noitemsep]
-  \item Estratégia
-  \item Desenho
-  \item Transição
-  \item Operação
+  \item Estratégia do Serviço
+  \item Desenho de Serviço
+  \item Transição de Serviço
+  \item Operação do Serviço
   \item Melhoria Continuada
 \end{itemize}
 
+Estratégia do Serviço (“Service Strategy”): É aqui que são tomadas as deciões estratégicas relacionadas aos serviços que vão ser desenvolvidos. Serviços que ajudam na identificação de requisitos e outras necessidades que ajudam a alcançar os objetivos do negócio.
 
-\section{Contexto}
-\subsection{Objetivos}
-\begin{itemize}
-  \item Formalizar o processo atual
-  \item Encontrar gargalos
-  \item Otimizar processos
+Desenho de Serviço (“Service Design”): Basicamente desenha o que a estratégia decidiu, tendo em mente os fatores de utilidade e garantia, tomando por base as características esperadas para os serviços e culminando na elaboração e descrição de especificações dos serviços.
+
+Transição de Serviço (“Service Transition”): Tem por foco o gerenciamento de mudanças, prevendo para tal fim a condução de ações voltadas à implantação de serviços. Move os serviços para o ambiente de produção. Os serviços são desenvolvidos, testados e liberados de forma controlada.
+
+Operação do Serviço (“Service Operation”): Aqui estão os processos do dia-a-dia, que mantém os serviços funcionando assegurando que seus objetivos sejam alcançados, baseando-se para isto, em acordos de níveis de serviços (SLAs, sigla do inglês “Service-level Agreements”).
+
+Melhoria Contínua do Serviço (“Continual Service Improvement”): Busca constante pela evolução dos serviços, aplicando para isto conceitos oriundos de técnicas como o ciclo PDCA (sigla do inglês “Plan-Do-Check-Act”).
+
+Esses pilares, se destrinchados, nos fornecem um total de 26 processos e 4 funções, aprofundando o conceito de como estruturar um serviço de acordo com áreas, fases do ciclo de vida e funções.
+
+
+
+As práticas de ITIL procuram fornecer o suporte necessário para que tais serviços estejam em sintonia com as necessidades do negócio.Dentre os benefícios que podem ser obtidos a parte da utilização das técnicas que compõem ITIL, pode-se destacar:
+
+
+\begin{itemize}[noitemsep]
+	\item Melhorias na satisfação dos clientes/áreas dependentes de um ou mais serviços;
+	\item Maior eficiência operacional;
+	\item Redução nos custos e nos esforços desprendidos pela área de TI cumprimento de uma ampla gama de atividades;
 \end{itemize}
 
-\subsection{Fatores criticos de sucesso:}
-\begin{itemize}
-  \item Diminuição do tempo de processamento de uma requisição individual
-  \item Diminuir a necessidade de tarefas humanas no processo de suporte
-\end{itemize}
-
-\subsection{Time do projeto}
-\begin{itemize}
-  \item Operador de suporte
-  \item Desenvolvedor Sênior
-  \item Representante de Vendas
-  \item Chefe de tecnologia
-\end{itemize}
-
-
-\subsubsection{Planejamento do Projeto}
-\begin{itemize}
-\item Fase 1 - Analise \\
-	- Formalização do processo corrente
-	- Analise de informação do sistema de logs
-\item Fase 2 - Otimização\\
-	- Otimização de identificação dos processos\\
-	- Documentação de novos processos
-\item Fase 3 - Implantação \\
-	- Implantação do processo\\
-\item Fase 4 - Validação\\
-	- Implantação do processo de monitoramento
-\end{itemize}
-
-\subsubsection{Fase 01}
-~[TO DO - Diagramas]
-
-\subsubsection{Conclusão e análise}
-- Processos indefinidos informalmente\\
-- Ausência de monitoramento\\
-- Ausência de uma base de conhecimento\\
-- Ausência de autênticação de usuário\\
-- Processos de longo tempo de execução\\
-- Reporte insuficiênte para o cliente\\
-
-\subsection{Proposta de redesign}
-- Gestão de Conhecimento e Auto-Ajuda
-
-- Para base de conhecimento, será preciso incluir
-	- Manual para suporte dos usuários
-	- Documentação completa dos produtos de Software
-	- Documentação de problemas comuns
-	- Base de dados de erros e suas "workarounds"
-	- Base de dados de "improvement sugestions"
-
-A base de conhecimento será lançada como uma extensão do
-suporte web page
-- Monitoramento de performace
-
-Como primeira ação foi necessário achar os indicadores chave de performace,
-onde foi possivel mapear o relacionamento desses indicadores chave com os fatores
-criticos de sucesso
 
 
 
+
+
+
+
+
+
+
+
+\section{Referências}
+Alison Cartlidge, A. H. (2007). An Introductory Overview of ITIL v3. The UK Chapter of the itSMF.\\
+Itil V3 Library - ITSMF \\
 
 \end{document}

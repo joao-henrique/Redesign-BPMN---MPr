@@ -1,4 +1,4 @@
-$ latex --output-format= pdf TrabalhoMPr
+$ latex --output-format=pdf Trabalho_Modelagem.tex 
 
 
 Descrição do Projeto
