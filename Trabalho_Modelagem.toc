@@ -1,0 +1,22 @@
+\contentsline {section}{\numberline {1}Informa\IeC {\c c}\IeC {\~o}es Adicionais}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Motiva\IeC {\c c}\IeC {\~a}o}{1}{subsection.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}Servi\IeC {\c c}o de suporte ao usu\IeC {\'a}rio}{2}{subsubsection.1.1.1}
+\contentsline {section}{\numberline {2}Execu\IeC {\c c}\IeC {\~a}o do Projeto}{2}{section.2}
+\contentsline {section}{\numberline {3}Modelo AS-IS}{3}{section.3}
+\contentsline {subsection}{\numberline {3.1}Contexto}{3}{subsection.3.1}
+\contentsline {paragraph}{}{3}{section*.4}
+\contentsline {paragraph}{}{3}{section*.5}
+\contentsline {subsection}{\numberline {3.2}Objetivos}{3}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Principais indicadores}{3}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Time do projeto}{4}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Modelos dos processos}{4}{subsection.3.5}
+\contentsline {paragraph}{}{4}{section*.6}
+\contentsline {subsubsection}{\numberline {3.5.1}Ger\IeC {\^e}ncia de requisi\IeC {\c c}\IeC {\~a}o}{4}{subsubsection.3.5.1}
+\contentsline {subsubsection}{\numberline {3.5.2}Atendimento t\IeC {\'e}cnico}{5}{subsubsection.3.5.2}
+\contentsline {subsubsection}{\numberline {3.5.3}Atendimento para erro no sistema}{5}{subsubsection.3.5.3}
+\contentsline {subsubsection}{\numberline {3.5.4}Atendimento de Opini\IeC {\~a}o/Melhoria}{6}{subsubsection.3.5.4}
+\contentsline {subsection}{\numberline {3.6}Conclus\IeC {\~a}o e an\IeC {\'a}lise}{6}{subsection.3.6}
+\contentsline {section}{\numberline {4}Padr\IeC {\~o}es e Normas}{6}{section.4}
+\contentsline {subsection}{\numberline {4.1}ITIL}{6}{subsection.4.1}
+\contentsline {section}{\numberline {5} Melhoria de processo (TO - BE)}{7}{section.5}
+\contentsline {section}{\numberline {6}Refer\IeC {\^e}ncias}{8}{section.6}

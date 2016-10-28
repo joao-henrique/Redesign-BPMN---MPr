@@ -7,7 +7,9 @@
 \usepackage{hyperref}
 
 \begin{document}
-
+\tableofcontents
+\listoffigures
+\listoftables
 
 \begin{flushleft}
 \section{Informações Adicionais}
@@ -109,7 +111,7 @@ cliente possa reportar.
   \item Otimizar processos
 \end{itemize}
 
-\subsection{•}
+\subsection{Principais indicadores}
 \begin{itemize}[noitemsep]
   \item Diminuição do tempo de processamento de uma requisição individual
   \item Diminuir a necessidade de tarefas humanas no processo de suporte
@@ -134,15 +136,60 @@ Proporcionando um padrão internacional de leitura dos mesmos.
 
 
 \subsubsection{Gerência de requisição}
-\begin{figure}[h]
+\begin{figure}[!h]
 \caption{Gerencia de requisição}
 \centering % para centralizarmos a figura
-\includegraphics[width=15cm]{as-is/01_gerencia_de_requisicao.png} % leia abaixo
-\label{figura:gerencia_requisicao_as_is}
+\includegraphics[width=15cm]{as-is/01_atendimento_de_requisicao.png}
+\label{figura:atendimento_requisicao_as_is}
 \end{figure}
 
+\begin{itemize}[noitemsep]
+	\item Preencher informações de contato
+	\item Descrever problema
+	\item Enviar requisição
+	\item Enviar requisição
+	\item Categorizar requisição
+	\item Enviar Solicitação
+	\item Fechar requisição
+\end{itemize}
 
-\subsubsection{Suporte técnico}
+\subsubsection{Atendimento técnico}
+asssss
+\begin{figure}[!h]
+\caption{Atendimento técnico}
+\centering % para centralizarmos a figura
+\includegraphics[width=15cm]{as-is/02_suporte_tecnico.png}
+\label{figura:suporte_tecnico_as_is}
+\end{figure}
+
+\subsubsection{Atendimento para erro no sistema}
+
+\begin{figure}[!h]
+\caption{Atendimento para erro no sistema}
+\centering % para centralizarmos a figura
+\includegraphics[width=16cm, height=5cm]{as-is/03_atendimento_de_erro.png}
+\label{figura:atendimento_de_erro_as_is}
+\end{figure}
+\begin{itemize}
+	\item Confirmar erro
+	\item Aceitar Erro
+	\item Propor Solução
+	\item Indicar Solução definitiva
+	\item Criar registro
+\end{itemize}
+
+
+
+
+\subsubsection{Atendimento de Opinião/Melhoria}
+fffffffffff
+\begin{figure}[!h]
+\caption{Atendimento de Opinião/Melhoria}
+\centering % para centralizarmos a figura
+\includegraphics[width=15cm]{as-is/04_atendimento_de_melhoria.png}
+\label{figura:atendimento_de_melhoria_as_is}
+\end{figure}
+
 
 \subsection{Conclusão e análise}
 \begin{itemize}[noitemsep]
@@ -156,35 +203,6 @@ Proporcionando um padrão internacional de leitura dos mesmos.
 
 \section{Padrões e Normas}
 \subsection{ITIL}
-
-\section{Redesign do Processo (TO - BE)}
-
-\begin{itemize}[noitemsep]
-	\item Gestão de Conhecimento e Auto-Ajuda
-	\item	Para base de conhecimento, será preciso incluir
-	\begin{itemize}[noitemsep]
-		\item Manual para suporte dos usuários
-		\item Documentação completa dos produtos de software
-		\item Documentação de Problemas comuns
-		\item Base de dados de erros e suas workarounds
-		\item Base de dados de improvement sugestions
-	\end{itemize}
-	A base de conhecimento será lançada como uma extensão do
-	suporte web page
-	\item Monitoramento de performace
-\end{itemize}
-
-
-Como primeira ação foi necessário achar os indicadores chave de performace,
-onde foi possivel mapear o relacionamento desses indicadores chave com os fatores
-criticos de sucesso
-
-
-
-
-
-\subsection{Padrão industrial  e melhores praticas para suporte ao Usuário}
-\subsubsection{ITIL}
 A ITIL define serviço como um meio intangível de entregar valor aos clientes,
 facilitando resultados sem ter que assumir custos e riscos extras.
 
@@ -219,6 +237,35 @@ As práticas de ITIL procuram fornecer o suporte necessário para que tais servi
 	\item Maior eficiência operacional;
 	\item Redução nos custos e nos esforços desprendidos pela área de TI cumprimento de uma ampla gama de atividades;
 \end{itemize}
+
+
+
+\section{ Melhoria de processo (TO - BE)}
+
+\begin{itemize}[noitemsep]
+	\item Gestão de Conhecimento e Auto-Ajuda
+	\item	Para base de conhecimento, será preciso incluir
+	\begin{itemize}[noitemsep]
+		\item Manual para suporte dos usuários
+		\item Documentação completa dos produtos de software
+		\item Documentação de Problemas comuns
+		\item Base de dados de erros e suas workarounds
+		\item Base de dados de improvement sugestions
+	\end{itemize}
+	A base de conhecimento será lançada como uma extensão do
+	suporte web page
+	\item Monitoramento de performace
+\end{itemize}
+
+
+Como primeira ação foi necessário achar os indicadores chave de performace,
+onde foi possivel mapear o relacionamento desses indicadores chave com os fatores
+criticos de sucesso
+
+
+
+
+
 
 
 
