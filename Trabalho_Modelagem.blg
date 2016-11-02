@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Trabalho_Modelagem.aux
+The style file: ieeetr.bst
+Database file #1: ./ref.bib
+Warning--empty year in itsmfservice
+You've used 2 entries,
+            1876 wiz_defined-function locations,
+            486 strings with 3884 characters,
+and the built_in function-call counts, 355 in all, are:
+= -- 22
+> -- 24
+< -- 0
++ -- 9
+- -- 7
+* -- 29
+:= -- 69
+add.period$ -- 2
+call.type$ -- 2
+change.case$ -- 2
+chr.to.int$ -- 0
+cite$ -- 3
+duplicate$ -- 18
+empty$ -- 35
+format.name$ -- 7
+if$ -- 74
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 2
+newline$ -- 9
+num.names$ -- 2
+pop$ -- 9
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 2
+stack$ -- 0
+substring$ -- 0
+swap$ -- 2
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 2
+width$ -- 3
+write$ -- 17
+(There was 1 warning)

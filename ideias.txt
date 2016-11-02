@@ -1,0 +1,9 @@
+Tabela para declarar a empresa
+
+Nome, foco, problema
+
+
+
+descrever ferramentas de uso
+  - Justificar a escolha de ferramentas de modelagem
+  - Fazer um comparativo
