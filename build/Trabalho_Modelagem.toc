@@ -19,7 +19,7 @@
 \contentsline {paragraph}{\numberline {4.1.1.1}Processos}{8}{paragraph.4.1.1.1}
 \contentsline {subparagraph}{\numberline {4.1.1.1.1}Gerenciamento de eventos}{8}{subparagraph.4.1.1.1.1}
 \contentsline {subparagraph}{\numberline {4.1.1.1.2}Gerenciamento de incidentes}{8}{subparagraph.4.1.1.1.2}
-\contentsline {subparagraph}{\numberline {4.1.1.1.3}Gerenciamento de Problema}{8}{subparagraph.4.1.1.1.3}
-\contentsline {subparagraph}{\numberline {4.1.1.1.4}Gerenciamento de acesso}{8}{subparagraph.4.1.1.1.4}
-\contentsline {subparagraph}{\numberline {4.1.1.1.5}Execu\IeC {\c c}\IeC {\~a}o de requisi\IeC {\c c}\IeC {\~a}o}{8}{subparagraph.4.1.1.1.5}
-\contentsline {section}{\numberline {5} Melhoria de processo (TO - BE)}{9}{section.5}
+\contentsline {subparagraph}{\numberline {4.1.1.1.3}Gerenciamento de Problema}{9}{subparagraph.4.1.1.1.3}
+\contentsline {subparagraph}{\numberline {4.1.1.1.4}Gerenciamento de acesso}{11}{subparagraph.4.1.1.1.4}
+\contentsline {subparagraph}{\numberline {4.1.1.1.5}Execu\IeC {\c c}\IeC {\~a}o de requisi\IeC {\c c}\IeC {\~a}o}{11}{subparagraph.4.1.1.1.5}
+\contentsline {section}{\numberline {5} Melhoria de processo (TO - BE)}{12}{section.5}
