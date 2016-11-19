@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.10.10)  28 OCT 2016 18:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.10.10)  18 NOV 2016 23:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -232,20 +232,20 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 (./Trabalho_Modelagem.aux)
 \openout1 = `Trabalho_Modelagem.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -279,7 +279,7 @@ e
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
 \AtBeginShipoutBox=\box28
-Package hyperref Info: Link coloring OFF on input line 9.
+Package hyperref Info: Link coloring OFF on input line 13.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -289,9 +289,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count124
 )
-LaTeX Info: Redefining \ref on input line 9.
-LaTeX Info: Redefining \pageref on input line 9.
-LaTeX Info: Redefining \nameref on input line 9.
+LaTeX Info: Redefining \ref on input line 13.
+LaTeX Info: Redefining \pageref on input line 13.
+LaTeX Info: Redefining \nameref on input line 13.
 
 (./Trabalho_Modelagem.out) (./Trabalho_Modelagem.out)
 \@outlinefile=\write3
@@ -308,7 +308,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write4
 \openout4 = `Trabalho_Modelagem.toc'.
 
- (./Trabalho_Modelagem.lof)
+ (./Trabalho_Modelagem.lof [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
 \tf@lof=\write5
 \openout5 = `Trabalho_Modelagem.lof'.
 
@@ -316,108 +318,217 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@lot=\write6
 \openout6 = `Trabalho_Modelagem.lot'.
 
-
+ (./contexto.tex
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
-) [1
+)
+Overfull \hbox (39.73048pt too wide) in paragraph at lines 4--23
+\T1/cmr/m/n/10.95 de gas-tos por parte da em-presa. De-v-ido a esses prob-le-ma
+s os usuários(supermercados)
+ []
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 34.
-
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 29.
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 34.
- [2]
-Overfull \hbox (64.53233pt too wide) in paragraph at lines 96--103
-\T1/cmr/m/n/10.95 além de gas-tos por parte da em-presa. De-v-ido a esses prob-
-le-mas os usuários(supermercados)
- []
-
-[3]
-<as-is/01_atendimento_de_requisicao.png, id=126, 1036.87375pt x 577.15625pt>
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 29.
+ [2])
+(./informacaoAdicional.tex [3]) (./execucao_do_projeto.tex [4]) (./as_is.tex
+<as-is/01_atendimento_de_requisicao.png, id=228, 1036.87375pt x 577.15625pt>
 File: as-is/01_atendimento_de_requisicao.png Graphic file (type png)
 
 <use as-is/01_atendimento_de_requisicao.png>
 Package pdftex.def Info: as-is/01_atendimento_de_requisicao.png used on input l
-ine 142.
+ine 12.
 (pdftex.def)             Requested size: 426.79134pt x 237.56909pt.
 
-Overfull \hbox (66.79134pt too wide) in paragraph at lines 142--144
+Overfull \hbox (66.79134pt too wide) in paragraph at lines 12--14
  [][] 
  []
 
-<as-is/02_atendimento_tecnico.png, id=127, 800.9925pt x 329.23pt>
+[5 <./as-is/01_atendimento_de_requisicao.png>]
+<as-is/02_atendimento_tecnico.png, id=233, 800.9925pt x 329.23pt>
 File: as-is/02_atendimento_tecnico.png Graphic file (type png)
 
 <use as-is/02_atendimento_tecnico.png>
-Package pdftex.def Info: as-is/02_atendimento_tecnico.png used on input line 16
-1.
+Package pdftex.def Info: as-is/02_atendimento_tecnico.png used on input line 31
+.
 (pdftex.def)             Requested size: 426.79134pt x 175.42546pt.
 
-Overfull \hbox (66.79134pt too wide) in paragraph at lines 161--163
+Overfull \hbox (66.79134pt too wide) in paragraph at lines 31--33
  [][] 
  []
 
-[4 <./as-is/01_atendimento_de_requisicao.png>]
-<as-is/03_atendimento_de_erro.png, id=133, 1082.0425pt x 370.38374pt>
+<as-is/03_atendimento_de_erro.png, id=234, 1082.0425pt x 370.38374pt>
 File: as-is/03_atendimento_de_erro.png Graphic file (type png)
 
 <use as-is/03_atendimento_de_erro.png>
-Package pdftex.def Info: as-is/03_atendimento_de_erro.png used on input line 17
-0.
+Package pdftex.def Info: as-is/03_atendimento_de_erro.png used on input line 40
+.
 (pdftex.def)             Requested size: 455.24725pt x 142.2619pt.
 
-Overfull \hbox (95.24725pt too wide) in paragraph at lines 170--172
+Overfull \hbox (95.24725pt too wide) in paragraph at lines 40--42
  [][] 
  []
 
-<as-is/04_atendimento_de_melhoria.png, id=134, 881.2925pt x 404.51125pt>
+[6 <./as-is/02_atendimento_tecnico.png> <./as-is/03_atendimento_de_erro.png>]
+<as-is/04_atendimento_de_melhoria.png, id=239, 881.2925pt x 404.51125pt>
 File: as-is/04_atendimento_de_melhoria.png Graphic file (type png)
 
 <use as-is/04_atendimento_de_melhoria.png>
 Package pdftex.def Info: as-is/04_atendimento_de_melhoria.png used on input lin
-e 189.
+e 56.
 (pdftex.def)             Requested size: 426.79134pt x 195.89761pt.
 
-Overfull \hbox (66.79134pt too wide) in paragraph at lines 189--191
+Overfull \hbox (66.79134pt too wide) in paragraph at lines 56--58
  [][] 
  []
 
-[5 <./as-is/02_atendimento_tecnico.png> <./as-is/03_atendimento_de_erro.png>]
+) (./padroes_e_normas.tex [7 <./as-is/04_atendimento_de_melhoria.png>]
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-) [6 <./as-is/04_atendimento_de_melhoria.png>] [7] (./Trabalho_Modelagem.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 276.
- [8]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 276.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 38--43
+
+ []
+
+[8]
+<itil_images/gerenciamento_de_incidentes.png, id=251, 912.40875pt x 545.03625pt
+>
+File: itil_images/gerenciamento_de_incidentes.png Graphic file (type png)
+ <use itil_images/gerenciamento_de_incidentes.png>
+Package pdftex.def Info: itil_images/gerenciamento_de_incidentes.png used on in
+put line 82.
+(pdftex.def)             Requested size: 426.79134pt x 254.94453pt.
+
+Overfull \hbox (66.79134pt too wide) in paragraph at lines 82--84
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9]
+<itil_images/gerenciamento_de_problema.png, id=257, 878.28125pt x 589.20125pt>
+File: itil_images/gerenciamento_de_problema.png Graphic file (type png)
+
+<use itil_images/gerenciamento_de_problema.png>
+Package pdftex.def Info: itil_images/gerenciamento_de_problema.png used on inpu
+t line 118.
+(pdftex.def)             Requested size: 426.79134pt x 286.31966pt.
+
+Overfull \hbox (66.79134pt too wide) in paragraph at lines 118--120
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[10 <./itil_images/gerenciamento_de_incidentes.png>] [11 <./itil_images/gerenci
+amento_de_problema.png (PNG copy)>]
+<itil_images/gerenciamento_de_acesso.png, id=267, 749.80125pt x 307.1475pt>
+File: itil_images/gerenciamento_de_acesso.png Graphic file (type png)
+
+<use itil_images/gerenciamento_de_acesso.png>
+Package pdftex.def Info: itil_images/gerenciamento_de_acesso.png used on input 
+line 147.
+(pdftex.def)             Requested size: 426.79134pt x 174.83218pt.
+
+Overfull \hbox (66.79134pt too wide) in paragraph at lines 147--149
+ [][] 
+ []
+
+<itil_images/execucao_de_requisicao.png, id=268, 948.54375pt x 568.1225pt>
+File: itil_images/execucao_de_requisicao.png Graphic file (type png)
+
+<use itil_images/execucao_de_requisicao.png>
+Package pdftex.def Info: itil_images/execucao_de_requisicao.png used on input l
+ine 176.
+(pdftex.def)             Requested size: 426.79134pt x 255.61807pt.
+
+Overfull \hbox (66.79134pt too wide) in paragraph at lines 176--178
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (./to_be.tex [12 <./itil_images/gerenciamento_de_acesso.png>]
+<to_be/01_atendimento_de_requisicao.png, id=275, 1219.55624pt x 544.0325pt>
+File: to_be/01_atendimento_de_requisicao.png Graphic file (type png)
+
+<use to_be/01_atendimento_de_requisicao.png>
+Package pdftex.def Info: to_be/01_atendimento_de_requisicao.png used on input l
+ine 26.
+(pdftex.def)             Requested size: 426.79134pt x 190.38931pt.
+
+Overfull \hbox (66.79134pt too wide) in paragraph at lines 26--28
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<to_be/02_atendimento_tecnico.png, id=277, 1218.5525pt x 306.14375pt>
+File: to_be/02_atendimento_tecnico.png Graphic file (type png)
+
+<use to_be/02_atendimento_tecnico.png>
+Package pdftex.def Info: to_be/02_atendimento_tecnico.png used on input line 38
+.
+(pdftex.def)             Requested size: 426.79134pt x 107.22665pt.
+
+Overfull \hbox (66.79134pt too wide) in paragraph at lines 38--40
+ [][] 
+ []
+
+[13 <./itil_images/execucao_de_requisicao.png (PNG copy)>]
+<to_be/03_atendimento_de_erro.png, id=285, 1381.16pt x 466.74374pt>
+File: to_be/03_atendimento_de_erro.png Graphic file (type png)
+
+<use to_be/03_atendimento_de_erro.png>
+Package pdftex.def Info: to_be/03_atendimento_de_erro.png used on input line 49
+.
+(pdftex.def)             Requested size: 426.79134pt x 144.22614pt.
+
+Overfull \hbox (66.79134pt too wide) in paragraph at lines 49--51
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (./Trabalho_Modelagem.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 36.
+ [14 <./to_be/01_atendimento_de_requisicao.png> <./to_be/02_atendimento_tecnico
+.png>] [15 <./to_be/03_atendimento_de_erro.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 36.
 
 (./Trabalho_Modelagem.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 276.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 276.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 36.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 36.
 Package rerunfilecheck Info: File `Trabalho_Modelagem.out' has not changed.
-(rerunfilecheck)             Checksum: 3AC0D91BA3CAFE053181995E4699CABD;1261.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 276.
+(rerunfilecheck)             Checksum: 4A05AF9887A01393C92A1A47C5ABF610;2653.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 36.
  ) 
 Here is how much of TeX's memory you used:
- 6811 strings out of 494953
- 99591 string characters out of 6180976
- 181981 words of memory out of 5000000
- 9980 multiletter control sequences out of 15000+600000
+ 6920 strings out of 494953
+ 102299 string characters out of 6180976
+ 184434 words of memory out of 5000000
+ 10033 multiletter control sequences out of 15000+600000
  11703 words of font info for 30 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 29i,6n,37p,430b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,6n,37p,459b,529s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/joaohenrique/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1095.600pk> <
 /home/joaohenrique/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </hom
 e/joaohenrique/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1095.600pk> </home/jo
 aohenrique/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1095.600pk> </home/joaohe
 nrique/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk></usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Trabalho_Modelagem.pdf (8 pages, 212957 bytes).
+Output written on Trabalho_Modelagem.pdf (15 pages, 625263 bytes).
 PDF statistics:
- 436 PDF objects out of 1000 (max. 8388607)
- 174 compressed objects within 2 object streams
- 40 named destinations out of 1000 (max. 500000)
- 165 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 601 PDF objects out of 1000 (max. 8388607)
+ 301 compressed objects within 4 object streams
+ 72 named destinations out of 1000 (max. 500000)
+ 336 words of extra memory for PDF output out of 10000 (max. 10000000)
 
