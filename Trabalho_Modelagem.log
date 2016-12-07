@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.10.10)  18 NOV 2016 23:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.10.10)  6 DEC 2016 23:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -229,37 +229,144 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip44
 )
-(./Trabalho_Modelagem.aux)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen110
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks21
+\AP@partial=\box27
+\AP@footins=\box28
+)
+(/usr/share/texlive/texmf-dist/tex/latex/capt-of/capt-of.sty
+Package: capt-of 2009/12/29 v0.2 standard captions outside of floats
+)
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count118
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen111
+\extrarowheight=\dimen112
+\NC@list=\toks22
+\extratabsurround=\skip45
+\backup@length=\skip46
+)
+\everycr=\toks23
+\minrowclearance=\skip47
+)
+\rownum=\count119
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count120
+\c@@ppsavesec=\count121
+\c@@ppsaveapp=\count122
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count123
+\float@exts=\toks24
+\float@box=\box29
+\@float@everytoks=\toks25
+\@floatcapt=\box30
+)
+(./Trabalho_Modelagem.aux
+
+LaTeX Warning: Label `figura:atendimento_de_erro_to_be' multiply defined.
+
+
+LaTeX Warning: Label `figura:atendimento_requisicao_as_is' multiply defined.
+
+
+LaTeX Warning: Label `figura:atendimento_requisicao_to_be' multiply defined.
+
+
+LaTeX Warning: Label `figura:suporte_tecnico_as_is' multiply defined.
+
+
+LaTeX Warning: Label `figura:suporte_tecnico_to_be' multiply defined.
+
+
+LaTeX Warning: Label `figura:atendimento_de_erro_as_is' multiply defined.
+
+
+LaTeX Warning: Label `figura:atendimento_de_erro_to_be' multiply defined.
+
+
+LaTeX Warning: Label `figura:atendimento_de_melhoria_as_is' multiply defined.
+
+
+LaTeX Warning: Label `figura:atendimento_de_erro_to_be' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+
+LaTeX Warning: Label `my-label' multiply defined.
+
+)
 \openout1 = `Trabalho_Modelagem.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-
-(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+ (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count118
-\scratchdimen=\dimen110
-\scratchbox=\box27
-\nofMPsegments=\count119
-\nofMParguments=\count120
-\everyMPshowfont=\toks21
-\MPscratchCnt=\count121
-\MPscratchDim=\dimen111
-\MPnumerator=\count122
-\makeMPintoPDFobject=\count123
-\everyMPtoPDFconversion=\toks22
+\scratchcounter=\count124
+\scratchdimen=\dimen113
+\scratchbox=\box31
+\nofMPsegments=\count125
+\nofMParguments=\count126
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count127
+\MPscratchDim=\dimen114
+\MPnumerator=\count128
+\makeMPintoPDFobject=\count129
+\everyMPtoPDFconversion=\toks27
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -278,8 +385,8 @@ e
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
-\AtBeginShipoutBox=\box28
-Package hyperref Info: Link coloring OFF on input line 13.
+\AtBeginShipoutBox=\box32
+Package hyperref Info: Link coloring OFF on input line 20.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -287,30 +394,39 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count124
+\c@section@level=\count130
 )
-LaTeX Info: Redefining \ref on input line 13.
-LaTeX Info: Redefining \pageref on input line 13.
-LaTeX Info: Redefining \nameref on input line 13.
+LaTeX Info: Redefining \ref on input line 20.
+LaTeX Info: Redefining \pageref on input line 20.
+LaTeX Info: Redefining \nameref on input line 20.
 
 (./Trabalho_Modelagem.out) (./Trabalho_Modelagem.out)
 \@outlinefile=\write3
 \openout3 = `Trabalho_Modelagem.out'.
 
- (./Trabalho_Modelagem.toc
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+) [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./Trabalho_Modelagem.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 2.
-)
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.39 ...a}o entre as modelagens}{22}{Appendix.1.A}
+                                                   [1])
 \tf@toc=\write4
 \openout4 = `Trabalho_Modelagem.toc'.
 
- (./Trabalho_Modelagem.lof [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
+(./Trabalho_Modelagem.lof)
 \tf@lof=\write5
 \openout5 = `Trabalho_Modelagem.lof'.
 
@@ -318,24 +434,41 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@lot=\write6
 \openout6 = `Trabalho_Modelagem.lot'.
 
- (./contexto.tex
-(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
-File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
-)
-Overfull \hbox (39.73048pt too wide) in paragraph at lines 4--23
-\T1/cmr/m/n/10.95 de gas-tos por parte da em-presa. De-v-ido a esses prob-le-ma
-s os usu�rios(supermercados)
- []
+ [2] (./contexto.tex)
+(./informacaoAdicional.tex [3
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 29.
+]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 21.
+
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 29.
- [2])
-(./informacaoAdicional.tex [3]) (./execucao_do_projeto.tex [4]) (./as_is.tex
-<as-is/01_atendimento_de_requisicao.png, id=228, 1036.87375pt x 577.15625pt>
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 21.
+)
+(./execucao_do_projeto.tex [4]) (./definicao_do_problema.tex
+<fishbone.png, id=315, 1281.78876pt x 720.6925pt>
+File: fishbone.png Graphic file (type png)
+ <use fishbone.png>
+Package pdftex.def Info: fishbone.png used on input line 6.
+(pdftex.def)             Requested size: 426.79134pt x 239.96265pt.
+
+Overfull \hbox (66.79134pt too wide) in paragraph at lines 6--8
+ [][] 
+ []
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 33.
+
+[5pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.36  \item F
+             ormalizar o processo atual <./fishbone.png>]) (./as_is.tex
+<as-is/01_atendimento_de_requisicao.png, id=320, 1036.87375pt x 577.15625pt>
 File: as-is/01_atendimento_de_requisicao.png Graphic file (type png)
 
 <use as-is/01_atendimento_de_requisicao.png>
@@ -347,149 +480,16 @@ Overfull \hbox (66.79134pt too wide) in paragraph at lines 12--14
  [][] 
  []
 
-[5 <./as-is/01_atendimento_de_requisicao.png>]
-<as-is/02_atendimento_tecnico.png, id=233, 800.9925pt x 329.23pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6] <as-is/02_atendimento_tecnico.png, id=327, 800.9925pt x 329.23pt>
 File: as-is/02_atendimento_tecnico.png Graphic file (type png)
 
 <use as-is/02_atendimento_tecnico.png>
-Package pdftex.def Info: as-is/02_atendimento_tecnico.png used on input line 31
+Package pdftex.def Info: as-is/02_atendimento_tecnico.png used on input line 49
 .
 (pdftex.def)             Requested size: 426.79134pt x 175.42546pt.
-
-Overfull \hbox (66.79134pt too wide) in paragraph at lines 31--33
- [][] 
- []
-
-<as-is/03_atendimento_de_erro.png, id=234, 1082.0425pt x 370.38374pt>
-File: as-is/03_atendimento_de_erro.png Graphic file (type png)
-
-<use as-is/03_atendimento_de_erro.png>
-Package pdftex.def Info: as-is/03_atendimento_de_erro.png used on input line 40
-.
-(pdftex.def)             Requested size: 455.24725pt x 142.2619pt.
-
-Overfull \hbox (95.24725pt too wide) in paragraph at lines 40--42
- [][] 
- []
-
-[6 <./as-is/02_atendimento_tecnico.png> <./as-is/03_atendimento_de_erro.png>]
-<as-is/04_atendimento_de_melhoria.png, id=239, 881.2925pt x 404.51125pt>
-File: as-is/04_atendimento_de_melhoria.png Graphic file (type png)
-
-<use as-is/04_atendimento_de_melhoria.png>
-Package pdftex.def Info: as-is/04_atendimento_de_melhoria.png used on input lin
-e 56.
-(pdftex.def)             Requested size: 426.79134pt x 195.89761pt.
-
-Overfull \hbox (66.79134pt too wide) in paragraph at lines 56--58
- [][] 
- []
-
-) (./padroes_e_normas.tex [7 <./as-is/04_atendimento_de_melhoria.png>]
-(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
-File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-)
-Underfull \hbox (badness 10000) in paragraph at lines 38--43
-
- []
-
-[8]
-<itil_images/gerenciamento_de_incidentes.png, id=251, 912.40875pt x 545.03625pt
->
-File: itil_images/gerenciamento_de_incidentes.png Graphic file (type png)
- <use itil_images/gerenciamento_de_incidentes.png>
-Package pdftex.def Info: itil_images/gerenciamento_de_incidentes.png used on in
-put line 82.
-(pdftex.def)             Requested size: 426.79134pt x 254.94453pt.
-
-Overfull \hbox (66.79134pt too wide) in paragraph at lines 82--84
- [][] 
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[9]
-<itil_images/gerenciamento_de_problema.png, id=257, 878.28125pt x 589.20125pt>
-File: itil_images/gerenciamento_de_problema.png Graphic file (type png)
-
-<use itil_images/gerenciamento_de_problema.png>
-Package pdftex.def Info: itil_images/gerenciamento_de_problema.png used on inpu
-t line 118.
-(pdftex.def)             Requested size: 426.79134pt x 286.31966pt.
-
-Overfull \hbox (66.79134pt too wide) in paragraph at lines 118--120
- [][] 
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[10 <./itil_images/gerenciamento_de_incidentes.png>] [11 <./itil_images/gerenci
-amento_de_problema.png (PNG copy)>]
-<itil_images/gerenciamento_de_acesso.png, id=267, 749.80125pt x 307.1475pt>
-File: itil_images/gerenciamento_de_acesso.png Graphic file (type png)
-
-<use itil_images/gerenciamento_de_acesso.png>
-Package pdftex.def Info: itil_images/gerenciamento_de_acesso.png used on input 
-line 147.
-(pdftex.def)             Requested size: 426.79134pt x 174.83218pt.
-
-Overfull \hbox (66.79134pt too wide) in paragraph at lines 147--149
- [][] 
- []
-
-<itil_images/execucao_de_requisicao.png, id=268, 948.54375pt x 568.1225pt>
-File: itil_images/execucao_de_requisicao.png Graphic file (type png)
-
-<use itil_images/execucao_de_requisicao.png>
-Package pdftex.def Info: itil_images/execucao_de_requisicao.png used on input l
-ine 176.
-(pdftex.def)             Requested size: 426.79134pt x 255.61807pt.
-
-Overfull \hbox (66.79134pt too wide) in paragraph at lines 176--178
- [][] 
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-) (./to_be.tex [12 <./itil_images/gerenciamento_de_acesso.png>]
-<to_be/01_atendimento_de_requisicao.png, id=275, 1219.55624pt x 544.0325pt>
-File: to_be/01_atendimento_de_requisicao.png Graphic file (type png)
-
-<use to_be/01_atendimento_de_requisicao.png>
-Package pdftex.def Info: to_be/01_atendimento_de_requisicao.png used on input l
-ine 26.
-(pdftex.def)             Requested size: 426.79134pt x 190.38931pt.
-
-Overfull \hbox (66.79134pt too wide) in paragraph at lines 26--28
- [][] 
- []
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<to_be/02_atendimento_tecnico.png, id=277, 1218.5525pt x 306.14375pt>
-File: to_be/02_atendimento_tecnico.png Graphic file (type png)
-
-<use to_be/02_atendimento_tecnico.png>
-Package pdftex.def Info: to_be/02_atendimento_tecnico.png used on input line 38
-.
-(pdftex.def)             Requested size: 426.79134pt x 107.22665pt.
-
-Overfull \hbox (66.79134pt too wide) in paragraph at lines 38--40
- [][] 
- []
-
-[13 <./itil_images/execucao_de_requisicao.png (PNG copy)>]
-<to_be/03_atendimento_de_erro.png, id=285, 1381.16pt x 466.74374pt>
-File: to_be/03_atendimento_de_erro.png Graphic file (type png)
-
-<use to_be/03_atendimento_de_erro.png>
-Package pdftex.def Info: to_be/03_atendimento_de_erro.png used on input line 49
-.
-(pdftex.def)             Requested size: 426.79134pt x 144.22614pt.
 
 Overfull \hbox (66.79134pt too wide) in paragraph at lines 49--51
  [][] 
@@ -498,37 +498,469 @@ Overfull \hbox (66.79134pt too wide) in paragraph at lines 49--51
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (./Trabalho_Modelagem.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 36.
- [14 <./to_be/01_atendimento_de_requisicao.png> <./to_be/02_atendimento_tecnico
-.png>] [15 <./to_be/03_atendimento_de_erro.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 36.
+<as-is/03_atendimento_de_erro.png, id=328, 1082.0425pt x 370.38374pt>
+File: as-is/03_atendimento_de_erro.png Graphic file (type png)
 
-(./Trabalho_Modelagem.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 36.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 36.
+<use as-is/03_atendimento_de_erro.png>
+Package pdftex.def Info: as-is/03_atendimento_de_erro.png used on input line 68
+.
+(pdftex.def)             Requested size: 455.24725pt x 142.2619pt.
+
+Overfull \hbox (95.24725pt too wide) in paragraph at lines 68--70
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[7pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.87 			\item I
+               ndica a melhor solução para o problema <./as-is/01_atendimento
+_de_requisicao.png>] [8pdfTeX warning (ext4): destination with the same identif
+ier (name{figure.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.102 \clearpage
+                pdfTeX warning (ext4): destination with the same identifier (na
+me{figure.4}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.102 \clearpage
+                 <./as-is/02_atendimento_tecnico.png> <./as-is/03_atendimento_d
+e_erro.png>]
+<as-is/04_atendimento_de_melhoria.png, id=337, 881.2925pt x 404.51125pt>
+File: as-is/04_atendimento_de_melhoria.png Graphic file (type png)
+
+<use as-is/04_atendimento_de_melhoria.png>
+Package pdftex.def Info: as-is/04_atendimento_de_melhoria.png used on input lin
+e 108.
+(pdftex.def)             Requested size: 426.79134pt x 195.89761pt.
+
+Overfull \hbox (66.79134pt too wide) in paragraph at lines 108--110
+ [][] 
+ []
+
+) (./padroes_e_normas.tex [9
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) ha
+s been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.9   \item D
+             esenho de Serviço <./as-is/04_atendimento_de_melhoria.png>]
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+Underfull \hbox (badness 10000) in paragraph at lines 58--63
+
+ []
+
+[10]
+<itil_images/gerenciamento_de_incidentes.png, id=350, 912.40875pt x 545.03625pt
+>
+File: itil_images/gerenciamento_de_incidentes.png Graphic file (type png)
+ <use itil_images/gerenciamento_de_incidentes.png>
+Package pdftex.def Info: itil_images/gerenciamento_de_incidentes.png used on in
+put line 101.
+(pdftex.def)             Requested size: 426.79134pt x 254.94453pt.
+
+Overfull \hbox (66.79134pt too wide) in paragraph at lines 101--103
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[11]
+<itil_images/gerenciamento_de_problema.png, id=356, 878.28125pt x 589.20125pt>
+File: itil_images/gerenciamento_de_problema.png Graphic file (type png)
+
+<use itil_images/gerenciamento_de_problema.png>
+Package pdftex.def Info: itil_images/gerenciamento_de_problema.png used on inpu
+t line 137.
+(pdftex.def)             Requested size: 426.79134pt x 286.31966pt.
+
+Overfull \hbox (66.79134pt too wide) in paragraph at lines 137--139
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[12pdfTeX warning (ext4): destination with the same identifier (name{figure.6})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.145 	\item {
+              \bfseries Base de Dados de Erros Conhecidos (Know Error Databa...
+ <./itil_images/gerenciamento_de_incidentes.png>] [13pdfTeX warning (ext4): des
+tination with the same identifier (name{figure.7}) has been already used, dupli
+cate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.162 
+       <./itil_images/gerenciamento_de_problema.png (PNG copy)>]
+<itil_images/gerenciamento_de_acesso.png, id=367, 749.80125pt x 307.1475pt>
+File: itil_images/gerenciamento_de_acesso.png Graphic file (type png)
+
+<use itil_images/gerenciamento_de_acesso.png>
+Package pdftex.def Info: itil_images/gerenciamento_de_acesso.png used on input 
+line 166.
+(pdftex.def)             Requested size: 426.79134pt x 174.83218pt.
+
+Overfull \hbox (66.79134pt too wide) in paragraph at lines 166--168
+ [][] 
+ []
+
+<itil_images/execucao_de_requisicao.png, id=368, 948.54375pt x 568.1225pt>
+File: itil_images/execucao_de_requisicao.png Graphic file (type png)
+
+<use itil_images/execucao_de_requisicao.png>
+Package pdftex.def Info: itil_images/execucao_de_requisicao.png used on input l
+ine 195.
+(pdftex.def)             Requested size: 426.79134pt x 255.61807pt.
+
+Overfull \hbox (66.79134pt too wide) in paragraph at lines 195--197
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (./to_be.tex [14pdfTeX warning (ext4): destination with the same identifier (
+name{figure.8}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.8 
+     <./itil_images/gerenciamento_de_acesso.png>] [15pdfTeX warning (ext4): des
+tination with the same identifier (name{figure.9}) has been already used, dupli
+cate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.30 \end{itemize}
+                   <./itil_images/execucao_de_requisicao.png (PNG copy)>]
+[16]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 58.
+
+[17pdfTeX warning (ext4): destination with the same identifier (name{table.1}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.78     \end{landscape}
+                        ]
+<to_be/01_atendimento_de_requisicao.png, id=387, 1219.55624pt x 544.0325pt>
+File: to_be/01_atendimento_de_requisicao.png Graphic file (type png)
+
+<use to_be/01_atendimento_de_requisicao.png>
+Package pdftex.def Info: to_be/01_atendimento_de_requisicao.png used on input l
+ine 86.
+(pdftex.def)             Requested size: 426.79134pt x 190.38931pt.
+
+Overfull \hbox (66.79134pt too wide) in paragraph at lines 86--88
+ [][] 
+ []
+
+<to_be/02_atendimento_tecnico.png, id=388, 1435.3625pt x 359.3425pt>
+File: to_be/02_atendimento_tecnico.png Graphic file (type png)
+
+<use to_be/02_atendimento_tecnico.png>
+Package pdftex.def Info: to_be/02_atendimento_tecnico.png used on input line 12
+5.
+(pdftex.def)             Requested size: 426.79134pt x 106.84402pt.
+
+Overfull \hbox (66.79134pt too wide) in paragraph at lines 125--127
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[18
+
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) h
+as been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.136 			\item S
+                olicita informações sobre a requisição para o cliente <./to
+_be/01_atendimento_de_requisicao.png>] [19pdfTeX warning (ext4): destination wi
+th the same identifier (name{figure.11}) has been already used, duplicate ignor
+ed
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.171 \clearpage
+                 <./to_be/02_atendimento_tecnico.png>]
+<to_be/03_atendimento_de_erro.png, id=398, 1381.16pt x 466.74374pt>
+File: to_be/03_atendimento_de_erro.png Graphic file (type png)
+
+<use to_be/03_atendimento_de_erro.png>
+Package pdftex.def Info: to_be/03_atendimento_de_erro.png used on input line 17
+7.
+(pdftex.def)             Requested size: 426.79134pt x 144.22614pt.
+
+Overfull \hbox (66.79134pt too wide) in paragraph at lines 177--179
+ [][] 
+ []
+
+<to_be/04_atendimento_de_melhoria.png, id=399, 1304.875pt x 329.23pt>
+File: to_be/04_atendimento_de_melhoria.png Graphic file (type png)
+
+<use to_be/04_atendimento_de_melhoria.png>
+Package pdftex.def Info: to_be/04_atendimento_de_melhoria.png used on input lin
+e 221.
+(pdftex.def)             Requested size: 426.79134pt x 107.68169pt.
+
+Overfull \hbox (66.79134pt too wide) in paragraph at lines 221--223
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[20
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.12}) h
+as been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.236 			\item A
+                dicionar na base de conhecimento <./to_be/03_atendimento_de_err
+o.png>]) (./Trabalho_Modelagem.bbl [21pdfTeX warning (ext4): destination with t
+he same identifier (name{figure.13}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.8 \bibitem{reaganUsing}
+                          <./to_be/04_atendimento_de_melhoria.png>])
+(./comparacao_modelagem.tex
+File: as-is/01_atendimento_de_requisicao.png Graphic file (type png)
+ <use as-is/01_atendimento_de_requisicao.png>
+Package pdftex.def Info: as-is/01_atendimento_de_requisicao.png used on input l
+ine 11.
+(pdftex.def)             Requested size: 426.79805pt x 170.71756pt.
+
+Overfull \hbox (66.79805pt too wide) in paragraph at lines 11--13
+ [][] 
+ []
+
+File: to_be/01_atendimento_de_requisicao.png Graphic file (type png)
+<use to_be/01_atendimento_de_requisicao.png>
+Package pdftex.def Info: to_be/01_atendimento_de_requisicao.png used on input l
+ine 19.
+(pdftex.def)             Requested size: 455.24828pt x 199.17204pt.
+
+Overfull \hbox (95.24828pt too wide) in paragraph at lines 19--21
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[22pdfTeX warning (ext4): destination with the same identifier (name{figure.14}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.23 \clearpage
+               ] [23pdfTeX warning (ext4): destination with the same identifier
+ (name{figure.15}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.23 \clearpage
+               ]
+File: as-is/02_atendimento_tecnico.png Graphic file (type png)
+ <use as-is/02_atendimento_tecnico.png>
+Package pdftex.def Info: as-is/02_atendimento_tecnico.png used on input line 30
+.
+(pdftex.def)             Requested size: 426.79134pt x 175.42546pt.
+
+Overfull \hbox (66.79134pt too wide) in paragraph at lines 30--32
+ [][] 
+ []
+
+File: to_be/02_atendimento_tecnico.png Graphic file (type png)
+<use to_be/02_atendimento_tecnico.png>
+Package pdftex.def Info: to_be/02_atendimento_tecnico.png used on input line 37
+.
+(pdftex.def)             Requested size: 455.22974pt x 199.17426pt.
+
+Overfull \hbox (95.22974pt too wide) in paragraph at lines 37--39
+ [][] 
+ []
+
+[24
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.16}) h
+as been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.41 \clearpage
+               pdfTeX warning (ext4): destination with the same identifier (nam
+e{figure.17}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.41 \clearpage
+               ]
+File: as-is/03_atendimento_de_erro.png Graphic file (type png)
+ <use as-is/03_atendimento_de_erro.png>
+Package pdftex.def Info: as-is/03_atendimento_de_erro.png used on input line 47
+.
+(pdftex.def)             Requested size: 455.24725pt x 199.17345pt.
+
+Overfull \hbox (95.24725pt too wide) in paragraph at lines 47--49
+ [][] 
+ []
+
+File: to_be/03_atendimento_de_erro.png Graphic file (type png)
+<use to_be/03_atendimento_de_erro.png>
+Package pdftex.def Info: to_be/03_atendimento_de_erro.png used on input line 55
+.
+(pdftex.def)             Requested size: 455.23627pt x 199.1718pt.
+
+Overfull \hbox (95.23627pt too wide) in paragraph at lines 55--57
+ [][] 
+ []
+
+[25
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.18}) h
+as been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.59 \clearpage
+               % Flush pagepdfTeX warning (ext4): destination with the same ide
+ntifier (name{figure.19}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.59 \clearpage
+               % Flush page]
+File: as-is/04_atendimento_de_melhoria.png Graphic file (type png)
+ <use as-is/04_atendimento_de_melhoria.png>
+Package pdftex.def Info: as-is/04_atendimento_de_melhoria.png used on input lin
+e 67.
+(pdftex.def)             Requested size: 426.79431pt x 199.16895pt.
+
+Overfull \hbox (66.79431pt too wide) in paragraph at lines 67--69
+ [][] 
+ []
+
+File: to_be/04_atendimento_de_melhoria.png Graphic file (type png)
+<use to_be/04_atendimento_de_melhoria.png>
+Package pdftex.def Info: to_be/04_atendimento_de_melhoria.png used on input lin
+e 74.
+(pdftex.def)             Requested size: 426.78722pt x 199.1722pt.
+
+Overfull \hbox (66.78722pt too wide) in paragraph at lines 74--76
+ [][] 
+ []
+
+) [26
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.20}) h
+as been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.64 \clearpage
+               pdfTeX warning (ext4): destination with the same identifier (nam
+e{figure.21}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.64 \clearpage
+               ] (./pesquisa_cliente.tex
+Overfull \hbox (15.64859pt too wide) in paragraph at lines 18--27
+ [][] 
+ []
+
+
+Overfull \hbox (15.64859pt too wide) in paragraph at lines 61--69
+ [][] 
+ []
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 69.
+ [27
+
+pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has
+ been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.69 \end{document}
+                   pdfTeX warning (ext4): destination with the same identifier 
+(name{table.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.69 \end{document}
+                   pdfTeX warning (ext4): destination with the same identifier 
+(name{table.4}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.69 \end{document}
+                   ]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 69.
+ (./Trabalho_Modelagem.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 69.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 69.
 Package rerunfilecheck Info: File `Trabalho_Modelagem.out' has not changed.
-(rerunfilecheck)             Checksum: 4A05AF9887A01393C92A1A47C5ABF610;2653.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 36.
+(rerunfilecheck)             Checksum: 6FC349F5C9DC253AE71D2BAAD74CFE3A;3449.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 69.
  ) 
 Here is how much of TeX's memory you used:
- 6920 strings out of 494953
- 102299 string characters out of 6180976
- 184434 words of memory out of 5000000
- 10033 multiletter control sequences out of 15000+600000
- 11703 words of font info for 30 fonts, out of 8000000 for 9000
+ 7941 strings out of 494953
+ 115385 string characters out of 6180976
+ 303910 words of memory out of 5000000
+ 10960 multiletter control sequences out of 15000+600000
+ 15966 words of font info for 36 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 29i,6n,37p,459b,529s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,18n,37p,735b,532s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/joaohenrique/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1095.600pk> <
 /home/joaohenrique/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </hom
 e/joaohenrique/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1095.600pk> </home/jo
 aohenrique/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1095.600pk> </home/joaohe
-nrique/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Trabalho_Modelagem.pdf (15 pages, 625263 bytes).
+nrique/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/joaohenriq
+ue/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/joaohenrique/.
+texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1440.600pk> </home/joaohenrique/.texm
+f-var/fonts/pk/ljfour/jknappen/ec/ecbx2074.600pk> </home/joaohenrique/.texmf-va
+r/fonts/pk/ljfour/jknappen/ec/eccc1440.600pk> </home/joaohenrique/.texmf-var/fo
+nts/pk/ljfour/jknappen/ec/eccc1728.600pk></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Trabalho_Modelagem.pdf (28 pages, 775038 bytes).
 PDF statistics:
- 601 PDF objects out of 1000 (max. 8388607)
- 301 compressed objects within 4 object streams
- 72 named destinations out of 1000 (max. 500000)
- 336 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 862 PDF objects out of 1000 (max. 8388607)
+ 449 compressed objects within 5 object streams
+ 110 named destinations out of 1000 (max. 500000)
+ 418 words of extra memory for PDF output out of 10000 (max. 10000000)
 

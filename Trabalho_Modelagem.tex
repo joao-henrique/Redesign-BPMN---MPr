@@ -5,32 +5,65 @@
 \usepackage{blindtext}
 \usepackage{enumitem}
 \usepackage{hyperref}
-
+\usepackage{multirow}
+\usepackage{pdflscape}
+\usepackage{afterpage}
+\usepackage{capt-of}% or use the larger `caption` package
+\usepackage{lipsum}% dummy text
+\usepackage[table]{xcolor}% http://ctan.org/pkg/xcolor
+\usepackage[toc,page]{appendix}
+\usepackage{float}
 
 \setcounter{secnumdepth}{5}
 \setcounter{tocdepth}{5}
 
 \begin{document}
+
+\begin{titlepage}
+	\centering
+	{\scshape\LARGE Universidade de Brasília - Faculdade Gama\par}
+	\vspace{1cm}
+	{\scshape\Large Modelagem de Processos\par}
+	\vspace{1.5cm}
+	{\huge\bfseries Proposta de modelagem para suporte ao usuário\par}
+	\vspace{2cm}
+	{\Large\itshape João Henrique Pereira de Almeida\par}
+	\vfill
+	%supervised by\par
+	%Dr.~Mark \textsc{Brown}
+
+	\vfill
+
+% Bottom of the page
+	{\large \today\par}
+\end{titlepage}
+
+
 \tableofcontents
 \listoffigures
 \listoftables
 
+\clearpage
 \input{contexto.tex}
 \input{informacaoAdicional.tex}
 \input{execucao_do_projeto.tex}
+\input{definicao_do_problema.tex}
 \input{as_is.tex}
 \input{padroes_e_normas.tex}
 \input{to_be.tex}
 
-
-
-
-
-
-
-
 \bibliographystyle{ieeetr}
 \bibliography{./ref}
+
+
+
+\appendix
+\begin{appendices}
+
+\input{comparacao_modelagem.tex}
+\clearpage
+\input{pesquisa_cliente.tex}
+\end{appendices}
 
 
 \end{document}
