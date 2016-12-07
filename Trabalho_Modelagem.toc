@@ -35,9 +35,9 @@
 \contentsline {subsubsection}{\numberline {7.1.3}Atendimento para erro no sistema}{20}{subsubsection.7.1.3}
 \contentsline {subsubsection}{\numberline {7.1.4}Atendimento de Opini\IeC {\~a}o/Melhoria}{20}{subsubsection.7.1.4}
 \contentsline {subsection}{\numberline {7.2}Conclus\IeC {\~a}o sobre o TO-BE}{21}{subsection.7.2}
-\contentsline {section}{Appendices}{22}{section*.9}
-\contentsline {section}{\numberline {A} Compara\IeC {\c c}\IeC {\~a}o entre as modelagens}{22}{Appendix.1.A}
-\contentsline {subsection}{\numberline {A.1}Compara\IeC {\c c}\IeC {\~a}o atendimento de requisi\IeC {\c c}\IeC {\~a}o}{22}{subsection.1.A.1}
+\contentsline {section}{Appendices}{23}{section*.9}
+\contentsline {section}{\numberline {A} Compara\IeC {\c c}\IeC {\~a}o entre as modelagens}{23}{Appendix.1.A}
+\contentsline {subsection}{\numberline {A.1}Compara\IeC {\c c}\IeC {\~a}o atendimento de requisi\IeC {\c c}\IeC {\~a}o}{23}{subsection.1.A.1}
 \contentsline {subsection}{\numberline {A.2}Compara\IeC {\c c}\IeC {\~a}o atendimento t\IeC {\'e}cnico}{24}{subsection.1.A.2}
 \contentsline {subsection}{\numberline {A.3}Compara\IeC {\c c}\IeC {\~a}o atendimento para erro no sistema}{25}{subsection.1.A.3}
 \contentsline {subsection}{\numberline {A.4}Compara\IeC {\c c}\IeC {\~a}o Atendimento de Opini\IeC {\~a}o/Melhoria}{26}{subsection.1.A.4}

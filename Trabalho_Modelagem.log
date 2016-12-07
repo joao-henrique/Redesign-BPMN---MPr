@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.10.10)  6 DEC 2016 23:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.10.10)  7 DEC 2016 00:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -420,7 +420,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.39 ...a}o entre as modelagens}{22}{Appendix.1.A}
+l.39 ...a}o entre as modelagens}{23}{Appendix.1.A}
                                                    [1])
 \tf@toc=\write4
 \openout4 = `Trabalho_Modelagem.toc'.
@@ -648,29 +648,34 @@ cate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.30 \end{itemize}
-                   <./itil_images/execucao_de_requisicao.png (PNG copy)>]
+l.27 		\item M
+              onitoramento de performace \\ <./itil_images/execucao_de_requisic
+ao.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
 [16]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 58.
+               Default added (so using `tbp') on input line 53.
 
 [17pdfTeX warning (ext4): destination with the same identifier (name{table.1}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.78     \end{landscape}
+l.73     \end{landscape}
                         ]
 <to_be/01_atendimento_de_requisicao.png, id=387, 1219.55624pt x 544.0325pt>
 File: to_be/01_atendimento_de_requisicao.png Graphic file (type png)
 
 <use to_be/01_atendimento_de_requisicao.png>
 Package pdftex.def Info: to_be/01_atendimento_de_requisicao.png used on input l
-ine 86.
+ine 81.
 (pdftex.def)             Requested size: 426.79134pt x 190.38931pt.
 
-Overfull \hbox (66.79134pt too wide) in paragraph at lines 86--88
+Overfull \hbox (66.79134pt too wide) in paragraph at lines 81--83
  [][] 
  []
 
@@ -679,10 +684,10 @@ File: to_be/02_atendimento_tecnico.png Graphic file (type png)
 
 <use to_be/02_atendimento_tecnico.png>
 Package pdftex.def Info: to_be/02_atendimento_tecnico.png used on input line 12
-5.
+0.
 (pdftex.def)             Requested size: 426.79134pt x 106.84402pt.
 
-Overfull \hbox (66.79134pt too wide) in paragraph at lines 125--127
+Overfull \hbox (66.79134pt too wide) in paragraph at lines 120--122
  [][] 
  []
 
@@ -699,7 +704,7 @@ as been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.136 			\item S
+l.131 			\item S
                 olicita informações sobre a requisição para o cliente <./to
 _be/01_atendimento_de_requisicao.png>] [19pdfTeX warning (ext4): destination wi
 th the same identifier (name{figure.11}) has been already used, duplicate ignor
@@ -707,17 +712,17 @@ ed
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.171 \clearpage
+l.166 \clearpage
                  <./to_be/02_atendimento_tecnico.png>]
 <to_be/03_atendimento_de_erro.png, id=398, 1381.16pt x 466.74374pt>
 File: to_be/03_atendimento_de_erro.png Graphic file (type png)
 
 <use to_be/03_atendimento_de_erro.png>
 Package pdftex.def Info: to_be/03_atendimento_de_erro.png used on input line 17
-7.
+2.
 (pdftex.def)             Requested size: 426.79134pt x 144.22614pt.
 
-Overfull \hbox (66.79134pt too wide) in paragraph at lines 177--179
+Overfull \hbox (66.79134pt too wide) in paragraph at lines 172--174
  [][] 
  []
 
@@ -726,10 +731,10 @@ File: to_be/04_atendimento_de_melhoria.png Graphic file (type png)
 
 <use to_be/04_atendimento_de_melhoria.png>
 Package pdftex.def Info: to_be/04_atendimento_de_melhoria.png used on input lin
-e 221.
+e 216.
 (pdftex.def)             Requested size: 426.79134pt x 107.68169pt.
 
-Overfull \hbox (66.79134pt too wide) in paragraph at lines 221--223
+Overfull \hbox (66.79134pt too wide) in paragraph at lines 216--218
  [][] 
  []
 
@@ -743,7 +748,7 @@ as been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.236 			\item A
+l.231 			\item A
                 dicionar na base de conhecimento <./to_be/03_atendimento_de_err
 o.png>]) (./Trabalho_Modelagem.bbl [21pdfTeX warning (ext4): destination with t
 he same identifier (name{figure.13}) has been already used, duplicate ignored
@@ -751,7 +756,7 @@ he same identifier (name{figure.13}) has been already used, duplicate ignored
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.8 \bibitem{reaganUsing}
-                          <./to_be/04_atendimento_de_melhoria.png>])
+                          <./to_be/04_atendimento_de_melhoria.png>]) [22]
 (./comparacao_modelagem.tex
 File: as-is/01_atendimento_de_requisicao.png Graphic file (type png)
  <use as-is/01_atendimento_de_requisicao.png>
@@ -773,17 +778,16 @@ Overfull \hbox (95.24828pt too wide) in paragraph at lines 19--21
  [][] 
  []
 
+[23
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[22pdfTeX warning (ext4): destination with the same identifier (name{figure.14}
-) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{figure.14}) h
+as been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.23 \clearpage
-               ] [23pdfTeX warning (ext4): destination with the same identifier
- (name{figure.15}) has been already used, duplicate ignored
+               pdfTeX warning (ext4): destination with the same identifier (nam
+e{figure.15}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
@@ -894,12 +898,12 @@ e{figure.21}) has been already used, duplicate ignored
                                                   \fi \fi 
 l.64 \clearpage
                ] (./pesquisa_cliente.tex
-Overfull \hbox (15.64859pt too wide) in paragraph at lines 18--27
+Overfull \hbox (15.64859pt too wide) in paragraph at lines 20--29
  [][] 
  []
 
 
-Overfull \hbox (15.64859pt too wide) in paragraph at lines 61--69
+Overfull \hbox (15.64859pt too wide) in paragraph at lines 63--71
  [][] 
  []
 
@@ -941,7 +945,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 69.
 Here is how much of TeX's memory you used:
  7941 strings out of 494953
  115385 string characters out of 6180976
- 303910 words of memory out of 5000000
+ 304910 words of memory out of 5000000
  10960 multiletter control sequences out of 15000+600000
  15966 words of font info for 36 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -957,9 +961,9 @@ f-var/fonts/pk/ljfour/jknappen/ec/ecbx2074.600pk> </home/joaohenrique/.texmf-va
 r/fonts/pk/ljfour/jknappen/ec/eccc1440.600pk> </home/joaohenrique/.texmf-var/fo
 nts/pk/ljfour/jknappen/ec/eccc1728.600pk></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Trabalho_Modelagem.pdf (28 pages, 775038 bytes).
+Output written on Trabalho_Modelagem.pdf (28 pages, 776512 bytes).
 PDF statistics:
- 862 PDF objects out of 1000 (max. 8388607)
+ 866 PDF objects out of 1000 (max. 8388607)
  449 compressed objects within 5 object streams
  110 named destinations out of 1000 (max. 500000)
  418 words of extra memory for PDF output out of 10000 (max. 10000000)
